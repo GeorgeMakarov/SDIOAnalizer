@@ -6,3 +6,6 @@ Debug-Legacy-1.1.14/
 *.suo
 *.sln.ecd
 *.vcxproj.user
+*.vs
+*x64
+*Win32
